@@ -35,3 +35,14 @@ How will we protect anonymity
 - **Account creation will not ask for any PII**
 - Account creation will work like mullvad vpn and generate you a random extremely long key ( if you forget it, it's game over )
 - Transactions if any ( this will be done via BTC or Monero
+
+# Good top level domains for anonymity and why
+
+.is (Iceland)
+.ch (Switzerland)
+.li (Liechtenstein)
+.ru 
+
+Now russia is controlled by ICANN, but the juristication is inside of russia meaning the stress of other countries like U.S and more can't do much to it. This doesn't mean it's invincible.
+
+These top level domains are registered in countries with way stronger privacy laws giving external law enforcement more of a hassle in sending complaints about the data we collect being none. We understand that people will use platform for malicious intent however we are willing to deal with this problem in our own way and do not want to regulate our users with insane data collection law enforcement has shown many times that they don't like when users are able to privately post things or view things some clear examples being bf, n (dot) to, cracked.io, mysellix and way more.
