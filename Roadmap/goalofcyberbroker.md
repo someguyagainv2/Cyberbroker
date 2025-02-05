@@ -38,9 +38,9 @@ How will we protect anonymity
 
 # Good top level domains for anonymity and why
 
-.is (Iceland)
-.ch (Switzerland)
-.li (Liechtenstein)
+.is (Iceland) <br>
+.ch (Switzerland) <br>
+.li (Liechtenstein) <br>
 .ru 
 
 Now russia is controlled by ICANN, but the juristication is inside of russia meaning the stress of other countries like U.S and more can't do much to it. This doesn't mean it's invincible.
