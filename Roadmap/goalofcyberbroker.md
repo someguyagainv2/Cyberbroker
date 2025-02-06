@@ -49,9 +49,13 @@ These top level domains are registered in countries with way stronger privacy la
 
 # Good email searching tools which can be requested
 
-intelx ( however is extremely pricey not viable option )
-breach.vip (easy to request and allows for more than email searching)
-Epieos (however this is apart of custom plan)
-Dehashed (useful and offers more than email searching)
-HaveIbeenpned ( doesn't return key data but returns breached data)
+intelx ( however is extremely pricey not viable option ) <br>
+breach.vip (easy to request and allows for more than email searching) <br>
+Epieos (however this is apart of custom plan) <br>
+Dehashed (useful and offers more than email searching)<br>
+HaveIbeenpned ( doesn't return key data but returns breached data) <br>
 Spokeo (Paid not sure of API confides but is one of best tools for gathering information to identify individual)
+
+# Good username searching tools
+
+Dehashed (useful and offers more than email searching)<br>
