@@ -46,3 +46,12 @@ How will we protect anonymity
 Now russia is controlled by ICANN, but the juristication is inside of russia meaning the stress of other countries like U.S and more can't do much to it. This doesn't mean it's invincible.
 
 These top level domains are registered in countries with way stronger privacy laws giving external law enforcement more of a hassle in sending complaints about the data we collect being none. We understand that people will use platform for malicious intent however we are willing to deal with this problem in our own way and do not want to regulate our users with insane data collection law enforcement has shown many times that they don't like when users are able to privately post things or view things some clear examples being bf, n (dot) to, cracked.io, mysellix and way more.
+
+# Good email searching tools which can be requested
+
+intelx ( however is extremely pricey not viable option )
+breach.vip (easy to request and allows for more than email searching)
+Epieos (however this is apart of custom plan)
+Dehashed (useful and offers more than email searching)
+HaveIbeenpned ( doesn't return key data but returns breached data)
+Spokeo (Paid not sure of API confides but is one of best tools for gathering information to identify individual)
