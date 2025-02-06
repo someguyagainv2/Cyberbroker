@@ -58,4 +58,5 @@ Spokeo (Paid not sure of API confides but is one of best tools for gathering inf
 
 # Good username searching tools
 
+breach.vip (easy to request and allows for more than email searching) <br>
 Dehashed (useful and offers more than email searching)<br>
